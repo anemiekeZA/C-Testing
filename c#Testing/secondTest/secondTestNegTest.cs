@@ -1,6 +1,6 @@
 using System.Collections;
 using Calculators;
-namespace Exercise6Tests;
+namespace secondTestNegTests;
 public class NegTest
 {
     private readonly SimpleCalculator _calculator = new();
